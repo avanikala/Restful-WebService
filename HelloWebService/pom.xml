@@ -30,6 +30,11 @@
 			<artifactId>jersey-hk2</artifactId>
 			<version>2.29.1</version>
 		</dependency>
+		<dependency>
+    <groupId>org.glassfish.jersey.media</groupId>
+    <artifactId>jersey-media-multipart</artifactId>
+    <version>2.29.1</version>
+</dependency>
 	</dependencies>
 	<build>
 		<finalName>HelloWebService</finalName>
